@@ -1,0 +1,28 @@
+
+body{
+    background-color:#ffffff;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin: none;
+}
+
+main{
+    align-items: center;
+}
+
+form * {
+    font-size: 1.3rem;
+    align-items: center;
+}
+
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
