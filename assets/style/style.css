@@ -47,8 +47,10 @@ textarea {
 }
 
 footer {
+    bottom: 0;
+    position:fixed;
     background-color: #777;
-    padding: 10px;
+    width: 100%;
     text-align: center;
     color: white;
 }
